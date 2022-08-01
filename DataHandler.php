@@ -146,6 +146,28 @@
             }
         }
 
+        public function change_value_at_key($array,$key,$new_value){
+            try {
+                if ($this->check_if_object($array)&&!$this->check_if_object($key)){
+                    $keys = $this->get_keys($array);
+                    if(in_array($key, $keys)){
+                       $array[$key]=$new_value;
+                        return $array;
+                    }
+                    else {
+                        throw new Exception("The key '$key' is not present in the array. Cannot change something that does not exist!");
+                    };
+                    
+                }
+                else {
+                    throw new Exception("Array provided is not a valid array/object or key is incorrect.");
+                }
+            }
+            catch (Exception $e) {
+                echo 'Error: ',  $e->getMessage();
+            }
+        }
+
         
     }
 
