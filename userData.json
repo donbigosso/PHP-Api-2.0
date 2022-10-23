@@ -1,0 +1,12 @@
+[
+  { "name": "bigos", "pass": "dupa" },
+  {
+    "name": "zbyniu",
+    "pass": "smierdzi"
+  },
+  {
+    "name": "czarli",
+    "pass": "ruda"
+  },
+  { "name": "marcin", "pass": "ulica" }
+]
