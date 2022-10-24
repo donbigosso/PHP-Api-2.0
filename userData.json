@@ -1,12 +1,1 @@
-[
-  { "name": "bigos", "pass": "dupa" },
-  {
-    "name": "zbyniu",
-    "pass": "smierdzi"
-  },
-  {
-    "name": "czarli",
-    "pass": "ruda"
-  },
-  { "name": "marcin", "pass": "ulica" }
-]
+[{"name":"bigos","pass":"dupa"},{"name":"zbyniu","pass":"smierdzi"},{"name":"czarli","pass":"rudafff"},{"name":"marcin","pass":"ulica"}]

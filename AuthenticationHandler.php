@@ -63,7 +63,7 @@
                             $password_veriffication =array(true,"Password correct!");
                         }
                         else {
-                            $password_veriffication =array(false,"Password incorrect...");
+                            $password_veriffication =array(false,"Incorrect password...");
                         }
                     }
                     else {

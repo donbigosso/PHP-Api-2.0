@@ -1,7 +1,7 @@
 {
   "settings": {
     "apiPath": "http://localhost:80/my/newAPI/receiver_v_0_6.php",
-    "jsonFilename": "motorbikeList.json",
+    "jsonFilename": "userData.json",
     "jsonPath": "http://localhost:80/my/newAPI/"
   },
   "labelCaptions": {
