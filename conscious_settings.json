@@ -1,0 +1,37 @@
+{
+  "settings": {
+    "apiPath": "http://localhost/my/newApi/receiver_v_0_6.php",
+    "PLContent": "pl_PL.json",
+    "ENContent": "en_EN.json",
+    "DEContent": "de_DE.json",
+    "images": "images.json",
+    "jsonPath": "http://localhost/my/newApi/"
+  },
+  "labelCaptions": {
+    "home_header": "Home header",
+    "black_pine_header": "Pine in black - header",
+    "nut_tale_header": "Tale of the Nut - header",
+    "oak_header": "Oak - header",
+    "home_par_01": "Homepage - paragraph 1",
+    "home_par_02": "Homepage - paragraph 2",
+    "home_par_03": "Homepage - paragraph 3",
+    "about_header": "About Us- header",
+    "about_par_01": "About us - paragraph 1",
+    "about_par_02": "About us - paragraph 2",
+    "about_par_03": "About us - paragraph 3",
+    "about_par_04": "About us - paragraph 4",
+    "projects_header": "Projects - header",
+    "black_pine_par_01": "Pine in black - paragraph 1",
+    "nut_tale_par_01": "Tale of the Nut - paragraph 1",
+    "oak_par_01": "Oak - paragraph 1",
+    "contact_header": "Contact - header",
+    "language_menu": "Language dropdown",
+    "lng_eng": "English",
+    "lng_pol": "Polish",
+    "lng_ger": "German"
+  },
+  "fileNames": {
+    "motorbikeList.json": "Motorbikes",
+    "zTata.json": "Nazwa zmieniona"
+  }
+}

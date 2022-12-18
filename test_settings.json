@@ -1,8 +1,8 @@
 {
   "settings": {
-    "apiPath": "http://localhost:80/my/newAPI/receiver_v_0_6.php",
-    "jsonFilename": "userData.json",
-    "jsonPath": "http://localhost:80/my/newAPI/"
+    "apiPath": "http://localhost/my/newApi/receiver_v_0_6.php",
+    "jsonFilename": "pl_PL.json",
+    "jsonPath": "http://localhost/my/newApi/"
   },
   "labelCaptions": {
     "name": "Changed Name",
