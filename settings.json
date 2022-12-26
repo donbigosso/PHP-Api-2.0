@@ -1,9 +1,9 @@
 {
   "settings": {
     "apiPath": "http://localhost/my/newApi/receiver_v_0_6.php",
-    "PLContent": "pl_PL.json",
-    "ENContent": "en_EN.json",
-    "DEContent": "de_DE.json",
+    "flat_content_01": "flat_content_01.json",
+    "flat_content_02": "flat_content_02.json",
+    "flat_content_03": "flat_content_03.json",
     "images": "images.json",
     "jsonPath": "http://localhost/my/newApi/"
   },
