@@ -10,10 +10,10 @@
                     if($json_content){
                         return $json_content;
                     }
-                    else {throw new Exception("Data is not a valid json. Can't decode. Please check it.");}
+                    else {throw new Exception("Data is not a valid json. Can't decode. Please check it. ");}
                 }
                 catch (Exception $e) {
-                    echo 'Error: ',  $e->getMessage();
+                    echo $e->getMessage();
                 }
             }
         }
@@ -42,11 +42,11 @@
                     return $keys;  
                 }
                 else {
-                    throw new Exception("Data is not a valid array/object. Can't get keys.");
+                    throw new Exception("Data is not a valid array/object. Can't get keys. ");
                 }
             }
             catch (Exception $e) {
-                echo 'Error: ',  $e->getMessage();
+                echo $e->getMessage();
             }
 
         }

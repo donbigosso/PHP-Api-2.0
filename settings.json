@@ -1,6 +1,6 @@
 {
   "settings": {
-    "apiPath": "http://localhost/my/newApi/receiver_v_0_6.php",
+    "apiPath": "http://localhost/my/newApi/receiver_v_0_7.php",
     "flat_content_01": "flat_content_01.json",
     "flat_content_02": "flat_content_02.json",
     "flat_content_03": "flat_content_03.json",

@@ -8,6 +8,16 @@
         public function set_destination($destination){
             $this->destination_file = $destination;
         }
+
+        public function check_if_file_exists($file){
+            $file_content = @file_get_contents($file);
+            if($file_content){
+                return true;
+            }
+            else {
+                return false;
+            }
+        }
         public function get_file_content($file){
             try {
                 $file_content = @file_get_contents($file);
